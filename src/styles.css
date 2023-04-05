@@ -6,6 +6,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 13.5px;
+  min-height: 100%;
 }
 .navbar {
   display: flex;

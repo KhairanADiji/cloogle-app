@@ -1,5 +1,5 @@
 import React from "react"
-import Image from "../images/IMG_20220707_103347.jpg"
+import Image from "../images/Khair.png"
 
 export default function NavBar() {
     return(
